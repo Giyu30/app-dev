@@ -2,5 +2,7 @@
 My first repository
 
 #My favorite movie
--Outside
--300
+**Outside**
+- This movie is all about zombies.
+**300**
+  -This movie is all about war.
